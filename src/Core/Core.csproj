@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>ColdSign.Core</RootNamespace>
+    <AssemblyName>ColdSign.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
